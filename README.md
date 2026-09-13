@@ -5,9 +5,9 @@
 
 ## Live Dashboard
 
-**Streamlit Application:** [Open Live Dashboard](ADD_YOUR_STREAMLIT_URL_HERE)
+**Streamlit Application:** [Open Live Dashboard](https://restaurant-tipping-statistical-modeling-sqxthknmkkj6yfu9z2emwz.streamlit.app/)
 
-> The live dashboard URL will be added after deployment to Streamlit Community Cloud.
+
 
 ---
 
@@ -480,7 +480,7 @@ Example:
 ```markdown
 ## Live Dashboard
 
-**Streamlit Application:** [Open Live Dashboard](YOUR_STREAMLIT_PUBLIC_URL)
+**Streamlit Application:** [Open Live Dashboard](https://restaurant-tipping-statistical-modeling-sqxthknmkkj6yfu9z2emwz.streamlit.app/)
 ```
 
 ---
