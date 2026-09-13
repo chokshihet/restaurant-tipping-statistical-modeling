@@ -469,21 +469,6 @@ plotly
 
 ---
 
-# Streamlit Community Cloud Deployment
-
-The completed dashboard can be deployed to **Streamlit Community Cloud**.
-
-After deployment, the public application URL should be added to the **Live Dashboard** section at the top of this README.
-
-Example:
-
-```markdown
-## Live Dashboard
-
-**Streamlit Application:** [Open Live Dashboard](https://restaurant-tipping-statistical-modeling-sqxthknmkkj6yfu9z2emwz.streamlit.app/)
-```
-
----
 
 # Conclusion
 
